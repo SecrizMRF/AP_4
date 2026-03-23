@@ -101,18 +101,18 @@ int main() {
     cout << (s1+s2).substr(5,3) << endl; // WorldWorld
 
     //Operator sizeof()
-    short angka = 90;
-    cout << "Ukuran integer: " << sizeof(angka) << " bytes" << endl;
+    // short angka = 90;
+    // cout << "Ukuran integer: " << sizeof(angka) << " bytes" << endl;
 
-    int nilai[] = {10, 20, 30, 40, 50, 60};
-    cout << "Ukuran array nilai: " << sizeof(nilai) << " bytes" << endl;
+    // int nilai[] = {10, 20, 30, 40, 50, 60};
+    // cout << "Ukuran array nilai: " << sizeof(nilai) << " bytes" << endl;
 
-    string s = "A";
-    cout << "Ukuran string: " << sizeof(s) << " bytes" << endl;
+    // string s = "A";
+    // cout << "Ukuran string: " << sizeof(s) << " bytes" << endl;
 
-    string nama_karyawan[] = {"Budi", "Suep", "Aldi", "Cecep"};
-    int n = sizeof(nama_karyawan)/sizeof(string);
-    cout << n << endl;
+    // string nama_karyawan[] = {"Budi", "Suep", "Aldi", "Cecep"};
+    // int n = sizeof(nama_karyawan)/sizeof(string);
+    // cout << n << endl;
 
     // Array library
     // array<float, 5> nilai = {10.5, 20.5, 30.5, 40.5, 50.5};
