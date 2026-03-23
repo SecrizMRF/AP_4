@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     system("cls");
+    
     int x;
 
     cout << "Masukkan nilai: ";
