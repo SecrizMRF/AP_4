@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     system("cls");
 
-    // goto : pergi ke...
+    // goto : pergi ke..
     // goto A;
     // B:
     // cout << "adalah ";
